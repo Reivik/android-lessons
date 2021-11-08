@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">EmptyActivityProject</string>
+    <string name="app_name">Contact App</string>
+    <string name="contact_list">Список контактов</string>
+    <string name="contact_details">Детали контакта</string>
+    <string name="description_contact">Описание</string>
+    <string name="email_two">Второй email</string>
+    <string name="email_one">Первый email</string>
+    <string name="phone_one">Первый телефон</string>
+    <string name="phone_two">Второй телефон</string>
+    <string name="name">Имя</string>
 </resources>
